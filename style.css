@@ -83,12 +83,7 @@ hr {
 .right-align {
   padding-left: 300px !important;
 }
-.group {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  text-align: left;
-}
+
 .item {
   text-align: left;
 }
